@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello World! 👋</h1>
+<h1>Hello, World! 👋</h1>
 
 ### My name is Scott :smiley: and I am a full stack software engineer based in Los Angeles.
 
