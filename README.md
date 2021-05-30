@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### My name is Scott :smiley: and I am a full stack software engineer based in Los Angeles.
 
 - :bowtie: I’m currently working on a MVP for a booking notification system
-- :memo: Completing a 30+ week <a href="https://leonnoel.com/blog/100devs/">100Devs</a> MERN stack Web Developer mentorship with <a href="https://twitter.com/leonnoel">Leon Noel</a> of <a href="https://resilientcoders.org/">Resiliant Coders</a>
-- :octocat: I’m currently honing my understanding of React
+- :memo: Completing 30+ week <a href="https://leonnoel.com/blog/100devs/">100Devs</a> MERN stack Web Developer mentorship with <a href="https://twitter.com/leonnoel">Leon Noel</a> of <a href="https://resilientcoders.org/">Resiliant Coders</a>, <a href="https://generalassemb.ly/instructors/leon-noel/2051">General Assembly</a>
+- :octocat: I’m currently honing my understanding of React and learning Next.js
 - :fire: Key skills: JavaScript ES6+, Node.js, Express.js, React, MongoDB, CSS3, HTML5
 - 👯 I’m looking to collaborate on anything! Especially open-source projects.
 - 📫 How to reach me: scott-ph (at) outlook (dot) com
