@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### My name is Scott :smiley: and I am a full stack software engineer based in Los Angeles.
 
 - :bowtie: I’m currently working in MERN stack
-- :octocat: Completing a 30+ week 100Devs mentorship with <link>Leon Noel</link> of Resiliant Coders
+- :octocat: Completing a 30+ week <a href="https://leonnoel.com/blog/100devs/">100Devs</a> mentorship with <a href="https://twitter.com/leonnoel">Leon Noel</a> of <a href="https://resilientcoders.org/">Resiliant Coders</a>
 - 🌱 I’m currently honing my understanding of React
 - :fire: Key skills: JavaScript ES6+, Node.js, Express.js, MongoDB, CSS3, HTML5
 - 👯 I’m looking to collaborate on anything! Especially open-source projects.
