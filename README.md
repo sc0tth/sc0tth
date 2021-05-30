@@ -1,5 +1,3 @@
-
-
 <!--
 **sc0tth/sc0tth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 <h1>Hello, World! 👋</h1>
 
 ### My name is Scott :smiley: and I am a full stack software engineer based in Los Angeles.
+
+![Scott GitHub Social Preview resize](https://user-images.githubusercontent.com/77366447/120118923-ca8ddc00-c149-11eb-8d12-9c32b90e6c04.jpg)
 
 - :bowtie: I’m currently working on a MVP for a booking notification system with Twilio integration.
 - :memo: Completing 30+ week <a href="https://leonnoel.com/blog/100devs/">100Devs</a> MERN stack Web Developer mentorship with <a href="https://twitter.com/leonnoel">Leon Noel</a> of <a href="https://resilientcoders.org/">Resiliant Coders</a>, <a href="https://generalassemb.ly/instructors/leon-noel/2051">General Assembly</a>.
