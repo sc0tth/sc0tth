@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hello World! 👋</h1>
 
-### My name is Scott and I am a full stack software engineer based in Los Angeles.
+### My name is Scott :smiley: and I am a full stack software engineer based in Los Angeles.
 
 - :bowtie: I’m currently working with MERN stack on my final project a 30+ week 100Devs mentorship with <link>Leon Noel</link>
 - 🌱 I’m currently learning React
