@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### My name is Scott and I am a full stack software engineer based in Los Angeles.
 
-- :bowtie: I’m currently working with MERN stack on my final project for 100Devs mentorship with <link>Leon Noel</link>
+- :bowtie: I’m currently working with MERN stack on my final project a 30+ week 100Devs mentorship with <link>Leon Noel</link>
 - 🌱 I’m currently learning React
 - :fire: Key skills: Node.js, Express.js, MongoDB, CSS, HTML
 - 👯 I’m looking to collaborate on anything! Especially open-source projects.
