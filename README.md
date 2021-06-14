@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - :fire: Key skills: JavaScript ES6+, Node.js, Express.js, React, MongoDB, CSS3, HTML5.
 - 👯 I’m looking to collaborate on anything! Especially open-source projects.
 - 📫 How to reach me: scott-ph (at) outlook (dot) com
+
+
+<!--
