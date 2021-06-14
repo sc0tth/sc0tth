@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - :bowtie: I’m currently working on a MVP for a booking notification system with Twilio integration.
 - :memo: Completing 30+ week <a href="https://leonnoel.com/blog/100devs/">100Devs</a> MERN stack Web Developer bootcamp with <a href="https://twitter.com/leonnoel">Leon Noel</a> of <a href="https://resilientcoders.org/">Resiliant Coders</a>, <a href="https://generalassemb.ly/instructors/leon-noel/2051">General Assembly</a>.
-- :octocat: I’m currently learning Next.js and MySQL while honing my understanding of React.
+- :octocat: I’m currently honing my understanding of React.
 - :fire: Key skills: JavaScript ES6+, Node.js, Express.js, React, MongoDB, CSS3, HTML5.
 - 👯 I’m looking to collaborate on anything! Especially open-source projects.
 - 📫 How to reach me: scott-ph (at) outlook (dot) com
