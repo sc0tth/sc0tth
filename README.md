@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything! Especially open-source projects.
 - 📫 How to reach me: scott-ph (at) outlook (dot) com
 
-
-<!--
