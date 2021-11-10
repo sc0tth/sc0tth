@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 - :octocat: I’m currently honing my understanding of React with personal projects.
 - :fire: Key skills: JavaScript ES6+, Node.js, Express.js, React, MongoDB, CSS3, HTML5, SEO.
 - 👯 I’m looking to collaborate and contribute! Especially open-source projects.
-- 📫 How to reach me: scott-ph (at) outlook (dot) com
-
-
