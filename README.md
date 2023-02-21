@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li> :memo: Completed a 30+ week <a href="https://leonnoel.com/blog/100devs/">100Devs</a> MERN stack Web Developer bootcamp with <a href="https://twitter.com/leonnoel">Leon Noel</a> of <a href="https://resilientcoders.org/">Resilient Coders</a>, <a href="https://generalassemb.ly/instructors/leon-noel/2051">General Assembly</a>.</li>
-  <li> :octocat: Currently learning more about Go!</li>
-  <li> :fire: Key skills: JavaScript, Node.js, Express.js, React, MongoDB, CSS3, HTML5.</li>
+  <li> :octocat: Currently learning more about React</li>
+  <li> :fire: Tech I use: JavaScript, Node.js, Express.js, MongoDB, CSS3, HTML5.</li>
   <li> 👯 I’m looking to collaborate and contribute! Especially open-source projects.</li>
 </ul>
